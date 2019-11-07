@@ -1,0 +1,16 @@
+[
+	{	//employess.json
+	    "name":"Alejandro",
+	    "age":19,
+	    "pets":[
+	        { "carro":"toyota", "name":"Scape" },
+	        { "carro":"Mercedes", "name":"combi" },
+	        { "carro":"Audi", "name":"colectivo" }
+	    ]
+	},
+	{
+		"name":"Rosales",
+	    "age":20,
+	    "pets":[]
+	}	
+]
